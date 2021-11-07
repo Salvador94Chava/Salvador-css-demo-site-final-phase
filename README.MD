@@ -18,9 +18,16 @@ in the following spaces I will live links to make it easier for the reader. to f
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Links](#links)
 
 # Installation
-To run this project succesfuly one need to get into github
+To run this project succesfuly one need to get into github https://github.com/Salvador94Chava/Salvador-css-demo-site-final-phase
+and click on code, after that copy the https code or the ssh code and get on the terminal and type git clone and the link that was use to create a copy on the local machine.
+
+# links
+file:///home/chababy94/Desktop/homework-2/index.html#online-reputation-managment
+
+https://github.com/Salvador94Chava/Salvador-css-demo-site-final-phase
 
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
