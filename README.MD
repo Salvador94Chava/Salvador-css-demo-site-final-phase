@@ -49,16 +49,20 @@ I will live a link to my Github. due that I am the first one to do this readme f
 
 This file is only operated by people that were contacted by the employer (Horiseon). i clarify that I do not own this proyect and was only employed to give a better quality to the code that was on index.HTML and Style.CSS.
 
-## Badges
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-## Features
-If your project has a lot of features, list them here.
-## How to Contribute
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+# How to Contribute
 
-A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
+A way that the community can colaborate with this proyect is going to my Github account which is, [Github-Salvador94Chava](https://github.com/Salvador94Chava) the user has permission from my part to fork the proyect and clone it to its own machine to keep improving on the code.
 
-This page was updated today 06/11/2021 (Day-Month-Year)
+if you need any help. 
+
+the user can always reach me to my mail
+
+[Outlook mail Salvador Espinosa Valdez](espinosasalvador94@outlook.com)
+
+# Bugs
+
+there are still somebugs that have not been able to be fixed by my part, which are a title problem at the beggining of the Index.html code, and also a problem with the hyperlinks. Two of them are not working eventhough I tried my best to make the code work.
+
+I will keep updating this file on the future.
+
+This page was updated on 06/11/2021 (Day-Month-Year)
