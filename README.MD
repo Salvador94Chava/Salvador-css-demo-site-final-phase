@@ -14,13 +14,12 @@ I learned to take my time and see slowly what was intended to happen in a set of
 
 # Table of Contents.
 in the following spaces I will live links to make it easier for the reader. to find what it wants instead of reading everysingle paragraph.
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation](#installation/Usage)
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
 
-# Installation
+# Installation/Usage
 To run this project succesfuly one need to get into github https://github.com/Salvador94Chava/Salvador-css-demo-site-final-phase
 and click on code, after that copy the https code or the ssh code and get on the terminal and type git clone and the link that was use to create a copy on the local machine.
 
@@ -38,22 +37,18 @@ file:///home/chababy94/Desktop/homework-2/index.html#online-reputation-managment
 
 https://github.com/Salvador94Chava/Salvador-css-demo-site-final-phase
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
-## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
----
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
+# Credits
+There are no extra collaborators for this project besides the earlier ones that were made before I was asked to make modificacions. 
+I did'nt use any third-party assets that require attribution, 
+I will live a link to my Github. due that I am the first one to do this readme file
+
+[Github-Salvador94Chava](https://github.com/Salvador94Chava)
+
+# License
+
+This file is only operated by people that were contacted by the employer (Horiseon). i clarify that I do not own this proyect and was only employed to give a better quality to the code that was on index.HTML and Style.CSS.
+
 ## Badges
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
