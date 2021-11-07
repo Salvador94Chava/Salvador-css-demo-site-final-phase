@@ -24,6 +24,15 @@ in the following spaces I will live links to make it easier for the reader. to f
 To run this project succesfuly one need to get into github https://github.com/Salvador94Chava/Salvador-css-demo-site-final-phase
 and click on code, after that copy the https code or the ssh code and get on the terminal and type git clone and the link that was use to create a copy on the local machine.
 
+here is a picture of the github account 
+
+![screenshot webpage](./assets/image/images/Github-screenshot.png){width=800px height=100%}
+
+also here are pictures of the Proyect on Github.
+
+![screenshot webpage on Github](./assets/image/images/Screenshot-github-webpage.png) {width=800px height=100%}
+
+
 # links
 file:///home/chababy94/Desktop/homework-2/index.html#online-reputation-managment
 
@@ -57,4 +66,4 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
 
-This page was updated 3 months ago
+This page was updated today 06/11/2021 (Day-Month-Year)
